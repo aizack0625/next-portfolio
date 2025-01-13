@@ -159,7 +159,7 @@ export default function Home() {
               href="https://aizack0625.github.io/rock-paper-scissors/"
               target="_blank"
               rel="noopener noreferrer"
-              className="card-animation block bg-white/80 backdrop-blur-sm rounded-lg shadow-lg p-6 transform hover:scale-105 transition-all duration-300 border-2 border-blue-400 shadow-blue-200/50 cyber-card max-w-sm mx-auto w-full h-full flex flex-col gap-4"
+              className="card-animation block bg-white/80 backdrop-blur-sm rounded-lg shadow-lg p-6 transform hover:scale-105 transition-all duration-300 border-2 border-blue-400 shadow-blue-200/50 cyber-card max-w-sm mx-auto w-full h-full flex-col gap-4"
             >
               <div className="w-full relative">
                 <Image
@@ -186,7 +186,7 @@ export default function Home() {
               href="https://aizawa-quiz-app.netlify.app"
               target="_blank"
               rel="noopener noreferrer"
-              className="card-animation block bg-white/80 backdrop-blur-sm rounded-lg shadow-lg p-6 transform hover:scale-105 transition-all duration-300 border-2 border-blue-400 shadow-blue-200/50 cyber-card max-w-sm mx-auto w-full h-full flex flex-col gap-4"
+              className="card-animation block bg-white/80 backdrop-blur-sm rounded-lg shadow-lg p-6 transform hover:scale-105 transition-all duration-300 border-2 border-blue-400 shadow-blue-200/50 cyber-card max-w-sm mx-auto w-full h-full flex-col gap-4"
             >
               <div className="w-full relative">
                 <Image
@@ -212,7 +212,7 @@ export default function Home() {
               href="https://takoyaki-portal.netlify.app"
               target="_blank"
               rel="noopener noreferrer"
-              className="card-animation block bg-white/80 backdrop-blur-sm rounded-lg shadow-lg p-6 transform hover:scale-105 transition-all duration-300 border-2 border-blue-400 shadow-blue-200/50 cyber-card max-w-sm mx-auto w-full h-full flex flex-col gap-4"
+              className="card-animation block bg-white/80 backdrop-blur-sm rounded-lg shadow-lg p-6 transform hover:scale-105 transition-all duration-300 border-2 border-blue-400 shadow-blue-200/50 cyber-card max-w-sm mx-auto w-full h-full flex-col gap-4"
             >
               <div className="w-full relative">
                 <Image
@@ -224,7 +224,7 @@ export default function Home() {
                 />
               </div>
               <div className="flex flex-col gap-3">
-                <h3 className="text-2xl font-bold text-gray-800 border-b-2 border-blue-400 pb-2">たこ焼き屋ポータルサイト</h3>
+                <h3 className="text-2xl font-bold text-gray-800 border-b-2 border-blue-400 pb-2">たこ焼き屋ポータルサイト<br />(未完成)</h3>
                 <div className="space-y-2">
                   <p className="text-gray-600 text-sm">たこ焼き屋の情報を投稿できるポータルサイトです。</p>
                   <div className="flex flex-wrap gap-2">
